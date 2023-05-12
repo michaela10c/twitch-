@@ -3,5 +3,5 @@
 
 
 Repositories: 
-- `twitch`: Back-end code using Java & Spring Boot
-- `twitchfe`: Front-end code using Javascript React
+- `twitch`: Backend code using Java & Spring Boot
+- `twitchfe`: Frontend code using Javascript React
