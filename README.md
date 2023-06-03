@@ -1,6 +1,4 @@
-# Twitch: A Game Streaming Platform using React and AWS
-
-
+# Twitch: A Personalized Twitch Resources Recommendation Engine
 
 Repositories: 
 - `twitch-backend`: Backend code using Java & Spring Boot
